@@ -1253,3 +1253,7 @@ h6 {
 .cardborderleft-yellow {
   border-left: 3px solid rgb(255, 213, 44)
 }
+
+.admin_content {
+    background-color: #2b56ce;
+}

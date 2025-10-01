@@ -32,6 +32,7 @@
 
   <!-- Template Main CSS File -->
   <link href="{{ URL::asset('theme/assets/css/style.css')}}" rel="stylesheet">
+  <link rel="stylesheet" href="{{URL::asset('public/css/admin/admin.css')}}">
   <!-- Summernote -->
   <link href="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote-lite.min.css" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote-lite.min.js"></script>
@@ -64,4 +65,4 @@
   ======================================================== -->
 </head>
 
-<body>
+<body class="admin_content">

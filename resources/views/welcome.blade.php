@@ -1,10 +1,8 @@
 @include('partials.__header')
 
 <main>
-    @include('partials.__nav')
-
     <!-- Main Section -->
-    <div class="container d-flex justify-content-center align-items-center min-vh-100">
+    <div class="container d-flex justify-content-center align-items-center min-vh-100 admin_bg">
         <div class="card shadow-sm p-4" style="max-width: 420px; width: 100%;">
             <div class="text-center mb-4">
                 
